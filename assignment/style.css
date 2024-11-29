@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('download.png');
+    background-image: url('restaurant.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
